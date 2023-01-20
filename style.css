@@ -96,16 +96,18 @@
 }
 
 .logo-img {
+    display: inline-block;
     position: absolute;
     left: 5.56%;
     right: 80.21%;
     top: 94.93%;
     bottom: 3.17%;
 
-    background-color: #fff;
+    
 }
 
 .footer {
+    display: flex;
     position: relative;
     width: 1440px;
     height: 200px;
